@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "godwit",
+    "style": "scss",
+    "postcss": false
+  }
+}
